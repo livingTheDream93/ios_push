@@ -15,6 +15,11 @@ $certificate_password = "qwerty@1234"; // Change this to the certificate's impor
 function raw_files() {
     return array(
         'icon.iconset/icon_16x16.png',
+        'icon.iconset/icon_16x16@2x.png',
+        'icon.iconset/icon_32x32.png',
+        'icon.iconset/icon_32x32@2x.png',
+        'icon.iconset/icon_128x128.png',
+        'icon.iconset/icon_128x128@2x.png',
         'website.json'
     );
 }

@@ -4,5 +4,5 @@
   "allowedDomains": ["https://infallible-heyrovsky-830892.netlify.app/"],
   "urlFormatString": "https://infallible-heyrovsky-830892.netlify.app/",
   "authenticationToken": "19f8d7a6e9fb8a7f6d9330dabe",
-  "webServiceURL": "http://pushservice.patchus.in"
+  "webServiceURL": "http://pushservice.patchus.in/push"
 }
